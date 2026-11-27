@@ -3,7 +3,7 @@
 Windows 64비트용 테스트 클라이언트 배포 저장소입니다.
 
 ## 다운로드
-[최신 릴리스 다운로드 페이지](https://github.com/kyussslee/aegis-downloads/releases/latest)
+[최신 릴리스 다운로드 페이지](https://github.com/sadhbh-ks/aegis-downloads/releases/latest)
 
 Assets에서 AEGIS-Online 버전명.exe를 받은 뒤 더블클릭하세요. 별도 Python 설치나 수동 압축 해제는 필요 없습니다. 첫 실행 시 사용자 폴더에 게임 파일을 자동 준비합니다.
 
@@ -12,3 +12,7 @@ Assets에서 AEGIS-Online 버전명.exe를 받은 뒤 더블클릭하세요. 별
 여러 PC에서 동시에 플레이하려면 서로 다른 계정을 사용하세요. 코드 서명 없는 테스트 배포본입니다. 실결제는 비활성화되어 있습니다.
 
 이 저장소는 배포 파일과 사용 안내용입니다. 서버 관리 키, 계정 DB, 개인 저장 데이터는 포함하지 않습니다.
+
+## 0.67.1 주소 이전 안내
+
+GitHub 계정 이름이 `sadhbh-ks`로 변경되었습니다. 0.67.0 이하 EXE는 이전 다운로드 주소를 검사하므로, 이번에는 최신 EXE를 한 번 직접 받아 실행해 주세요. 이후 자동 업데이트는 새 저장소에서 이어집니다. 계정과 게임 서버에 저장된 데이터는 그대로 유지됩니다.
